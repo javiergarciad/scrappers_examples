@@ -5,7 +5,7 @@ https://www.myshiptracking.com given some identifying information for a vessel.
 
 For this example input and output dataset will be stored in two different CSV files. This could be adapted to be used in conjunction with a database but that is beyond the scope of this example.
 
-Multi threading could be implemented to speed up the process. Multiple queries will be performed at once.
+Multi threading could be implemented to speed up the process, but beyond the scope of this example.
  
 ## Input
  Input CSV must have the following data (columns) for each vessel (row):
