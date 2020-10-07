@@ -36,18 +36,20 @@ Output CSV will contain the following columns for each vessel.
 ## Usage
 
 * clone or download the project locally
-    *   python git clone git@github.com:JavierMacro/pdf2word.git
+    *   python git clone git@github.com:javiergarciad/scrappers_examples
 
- * Enter the project directory
-        * cd vessels_positioning
+* Enter the project directory
+    * cd vessels_positioning
 
-    Establish a virtual environment, and install dependencies
-        python3 -m venv venv source venv/bin/activate pip install -r requirements.txt
+* Establish a virtual environment, and install dependencies
+    * python3 -m venv venv source venv/bin/activate pip install -r requirements.txt
 
-    Modify the input CSV file:
-        Ensure each row has the required information for each vessel
+* Modify the input CSV file:
+    * Ensure each row has the required information for each vessel
 
-    Run
-        python vessel_information.py
+* Run
+    * python vessel_information.py
 
+## License
+With MIT open source license
 
